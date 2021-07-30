@@ -5,9 +5,9 @@ Nagios monitor for sysadmin day
 
 Warning! Fast hack for a joke, there are many ways to do it and probably better, faster and less resource consuming, but who cares?
 
-The sysadmins cares!
+The sysadmins care!
 
-##Usage
+## Usage
 
 Read the code and learn nagios.
 
